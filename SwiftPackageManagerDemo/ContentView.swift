@@ -7,10 +7,11 @@
 //
 
 import SwiftUI
+import AddLibrary
 
 struct ContentView: View {
     var body: some View {
-        Text("Hello, World!")
+        Text("10 + 5 = \(AddLibrary.init().add(10, 5))")
     }
 }
 
