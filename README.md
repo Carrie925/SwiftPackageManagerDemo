@@ -4,7 +4,7 @@
 
 ##  1. Add a third part dependency package Alarmofire to Project  
 
-1. Create a project
+1. Create a project "SwiftPackageManagerDemo"
 
 2. select  "PROJECT" -> "Swift Packages" -> click "+" button![](./Readme/1.png)
 
